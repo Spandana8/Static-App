@@ -1,8 +1,4 @@
-## User Posts
-
----
-
-Static website
+## Static website
 
 ## System Requirements
 
